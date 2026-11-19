@@ -1,12 +1,14 @@
 #piano {
-  width: 1200px;
-  margin-top: 150px;
+  width: 952px;
+  margin: 150px auto 0;
+  position: relative;
 }
 
 img {
   position: absolute;
-  margin-top: -560px;
-  margin-left: 10px;
+  width: 952px;
+  left: 0;
+  top: -310px;
 }
 
 body {
